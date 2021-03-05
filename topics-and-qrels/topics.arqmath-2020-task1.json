@@ -1277,26 +1277,12 @@
         ],
         "qid": 99
     },
-    {
-        "page": 1,
-        "kw": [
-            {
-                "type": "tex",
-                "str": "E=(0,1]"
-            },
-            {
-                "type": "tex",
-                "str": "E \subseteq R"
-            },
-            {
-                "type": "term",
-                "str": "real numbers"
-            },
-            {
-                "type": "term",
-                "str": "is this set not closed"
-            }
-        ],
+	{
+		"page": 1,
+		"kw": [
+			{"type": "tex", "str": "E=(0,1]"},
+			{"type": "term", "str": "closed set"}
+		],
         "qid": 100
-    }
+	}
 ]
